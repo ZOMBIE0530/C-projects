@@ -1,2 +1,3 @@
-# C-projects
-This repository is meant to contain my early C projects.
+# Single Functions
+
+This branch contains little applications that isolate single functions of the language.
