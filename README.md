@@ -1,3 +1,3 @@
-# Single Functions
+# Short term projects
 
-This branch contains little applications that isolate single functions of the language.
+This branch contains short term projects.
